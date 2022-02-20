@@ -1,0 +1,33 @@
+body {
+    position: relative;
+    background: url(../img/1f.jpg) repeat 0 0;
+    font-family: "Nunito", sans-serif;
+    text-align: center;
+    text-decoration: overline;
+    display: block;
+
+    pointer-events: none;
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+}
+.zag {
+    position: center;
+}
+.str {
+	position: absolute;
+    top: 120%;
+    left: 10%;
+	width: 1000px;
+}
+.rask {
+    position: absolute;
+    top: 00em;
+    left: 60%;
+}
+h5 {
+    font-family:'Times New Roman', Times, serif;
+    position: center;
+    font-size: 20px;
+}
